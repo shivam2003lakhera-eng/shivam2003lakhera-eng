@@ -252,7 +252,23 @@ Reporting / Analysis
 │        Data Engineering        │
 └────────────────────────────────┘
 ```
+## 🎯 Current Focus
 
+```text
+Java + Python + SQL
+        │
+        ▼
+Data Processing & Validation
+        │
+        ▼
+ETL Concepts
+        │
+        ▼
+AWS Cloud Fundamentals
+        │
+        ▼
+Data Engineering
+```
 ---
 
 ## 📊 GitHub Activity
@@ -277,25 +293,6 @@ Reporting / Analysis
     alt="GitHub Streak"
   />
 </p>
----
-
-## 🎯 Current Focus
-
-```text
-Java + Python + SQL
-        │
-        ▼
-Data Processing & Validation
-        │
-        ▼
-ETL Concepts
-        │
-        ▼
-AWS Cloud Fundamentals
-        │
-        ▼
-Data Engineering
-```
 
 ## 🤝 Let's Connect
 
