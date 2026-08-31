@@ -40,6 +40,8 @@ Database Applications
         ↓
  Data Engineering
 
+👨‍💻 Who I Am
+
 const shivam = {
   title: "MCA '27 | Aspiring Data Engineer",
 
