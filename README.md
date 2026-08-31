@@ -227,7 +227,9 @@ Reporting / Analysis
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=161b22" />
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=161b22" />
 </p>
+
 ---
+
 ## 🎯 Current Focus
 
 ```text
