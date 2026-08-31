@@ -40,7 +40,11 @@ Database Applications
         ↓
  Data Engineering
 
+
+```
 👨‍💻 Who I Am
+
+```text
 
 const shivam = {
   title: "MCA '27 | Aspiring Data Engineer",
@@ -78,6 +82,7 @@ const shivam = {
     "Data-focused Software Development"
   ]
 };
+
 ```
 
 🚀 Featured Projects
