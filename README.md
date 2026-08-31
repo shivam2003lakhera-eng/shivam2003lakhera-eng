@@ -190,11 +190,11 @@ Reporting / Analysis
 ### 🗄️ Databases & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img src="https://img.shields.io/badge/Data_Processing-238636?style=for-the-badge&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Data_Validation-238636?style=for-the-badge&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/ETL_Concepts-58A6FF?style=for-the-badge&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Relational_Design-58A6FF?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Processing-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Validation-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETL_Concepts-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Relational_Design-58A6FF?style=for-the-badge" />
 </p>
 
 ### 🌐 Application Development
@@ -220,6 +220,9 @@ Reporting / Analysis
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
   <img src="https://img.shields.io/badge/MySQL_Workbench-58A6FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161b22" />
   <img src="https://img.shields.io/badge/Jupyter_Notebook-58A6FF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=161b22" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black&labelColor=161b22" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=161b22" />
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=161b22" />
