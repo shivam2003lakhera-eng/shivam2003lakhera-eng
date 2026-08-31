@@ -165,7 +165,7 @@ Exploring how operational data can be organized for analysis.
 <p> <img src="https://skillicons.dev/icons?i=git,github,netbeans,tomcat" /> <img src="https://img.shields.io/badge/MySQL_Workbench-Tool-7dd3fc?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f172a" /> <img src="https://img.shields.io/badge/Jupyter-Notebook-7dd3fc?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0f172a" /> <img src="https://img.shields.io/badge/XAMPP-Development-7dd3fc?style=for-the-badge&logo=xampp&logoColor=white&labelColor=0f172a" /> </p>
 
 🗺️ What I'm Building Toward
-
+~~~
 ┌──────────────────────────────┐
 │  Strong SQL + Python Skills  │
 └───────────────┬──────────────┘
@@ -185,7 +185,7 @@ Exploring how operational data can be organized for analysis.
 ┌──────────────────────────────┐
 │       Data Engineering       │
 └──────────────────────────────┘
-
+~~~
 📊 GitHub Activity
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam2003lakhera-eng&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" alt="GitHub Stats" />
 
