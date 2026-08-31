@@ -228,6 +228,8 @@ Reporting / Analysis
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=161b22" />
 </p>
 
+---
+
 ## 🧭 What I'm Building Toward
 
 ```text
@@ -255,6 +257,7 @@ Reporting / Analysis
 │        Data Engineering        │
 └────────────────────────────────┘
 ```
+---
 ## 🎯 Current Focus
 
 ```text
