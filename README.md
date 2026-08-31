@@ -116,6 +116,8 @@ Enhanced insurance record management through structured data processing and vali
 
 This project is focused on moving beyond a traditional CRUD application toward a more data-oriented workflow.
 
+<p> <a href="https://github.com/shivam2003lakhera-eng/InsuranceRenewalPipeline"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam2003lakhera-eng&repo=InsuranceRenewalPipeline&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" alt="InsuranceRenewalPipeline" /> </a> </p>
+
 Insurance Data
       ↓
 Collection
@@ -143,6 +145,10 @@ Developing workflows for renewal tracking.
 Improving data consistency and transactional record management.
 Designing ETL-inspired data flows for collection, transformation, and reporting.
 Exploring how operational data can be organized for analysis.
+
+🚧 Status: Actively developing and evolving toward a stronger data engineering workflow.
+
+<p> <a href="https://github.com/shivam2003lakhera-eng/InsuranceRenewalPipeline"> <img src="https://img.shields.io/badge/View_Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="View Code" /> </a> </p>
 
 📚 Currently Learning
 🐍 Python — strengthening OOP and practical programming skills
