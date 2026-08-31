@@ -227,36 +227,6 @@ Reporting / Analysis
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=161b22" />
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=161b22" />
 </p>
-
----
-
-## 🧭 What I'm Building Toward
-
-```text
-┌────────────────────────────────┐
-│   Strong SQL + Python Skills   │
-└───────────────┬────────────────┘
-                │
-                ▼
-┌────────────────────────────────┐
-│ Data Processing & Validation   │
-└───────────────┬────────────────┘
-                │
-                ▼
-┌────────────────────────────────┐
-│      ETL & Data Pipelines      │
-└───────────────┬────────────────┘
-                │
-                ▼
-┌────────────────────────────────┐
-│      Cloud Data Workflows      │
-└───────────────┬────────────────┘
-                │
-                ▼
-┌────────────────────────────────┐
-│        Data Engineering        │
-└────────────────────────────────┘
-```
 ---
 ## 🎯 Current Focus
 
@@ -275,6 +245,12 @@ AWS Cloud Fundamentals
         ▼
 Data Engineering
 ```
+- Strengthening Python and SQL fundamentals
+- Understanding data processing and validation
+- Learning ETL concepts and pipeline thinking
+- Exploring AWS services and cloud fundamentals
+- Building projects that move toward Data Engineering
+  
 ---
 
 ## 📊 GitHub Activity
