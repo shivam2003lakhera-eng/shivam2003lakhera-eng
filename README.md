@@ -184,45 +184,46 @@ Reporting / Analysis
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,php&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161b22" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161b22" />
 </p>
 
 ### 🗄️ Databases & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img src="https://img.shields.io/badge/Data%20Processing-238636?style=for-the-badge&labelColor=161b22" alt="Data Processing" />
-  <img src="https://img.shields.io/badge/Data%20Validation-238636?style=for-the-badge&labelColor=161b22" alt="Data Validation" />
-  <img src="https://img.shields.io/badge/ETL%20Concepts-58A6FF?style=for-the-badge&labelColor=161b22" alt="ETL Concepts" />
-  <img src="https://img.shields.io/badge/Relational%20Design-58A6FF?style=for-the-badge&labelColor=161b22" alt="Relational Design" />
+  <img src="https://img.shields.io/badge/Data_Processing-238636?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Data_Validation-238636?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/ETL_Concepts-58A6FF?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Relational_Design-58A6FF?style=for-the-badge&labelColor=161b22" />
 </p>
 
 ### 🌐 Application Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-  <img src="https://img.shields.io/badge/JSP-58A6FF?style=for-the-badge&labelColor=161b22" alt="JSP" />
-  <img src="https://img.shields.io/badge/Servlets-58A6FF?style=for-the-badge&labelColor=161b22" alt="Servlets" />
-  <img src="https://img.shields.io/badge/CRUD-238636?style=for-the-badge&labelColor=161b22" alt="CRUD" />
+  <img src="https://img.shields.io/badge/JSP-58A6FF?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Servlets-58A6FF?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/CRUD-238636?style=for-the-badge&labelColor=161b22" />
 </p>
 
 ### ☁️ Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=161b22" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=161b22" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=161b22" />
 </p>
 
 ### 🔧 Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,netbeans,tomcat&theme=dark" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-58A6FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161b22" alt="MySQL Workbench" />
-  <img src="https://img.shields.io/badge/Jupyter-58A6FF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=161b22" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/XAMPP-58A6FF?style=for-the-badge&logo=xampp&logoColor=white&labelColor=161b22" alt="XAMPP" />
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/MySQL_Workbench-58A6FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-58A6FF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=161b22" />
 </p>
-
 ---
 
 ## 🧭 What I'm Building Toward
@@ -274,25 +275,13 @@ Data Engineering
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=shivam2003lakhera-eng&show_icons=true&hide_title=false&count_private=true&theme=transparent&hide_border=false&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-    alt="Shivam's GitHub Stats"
-  />
-
-  <img 
-    width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam2003lakhera-eng&layout=compact&langs_count=6&theme=transparent&hide_border=false&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=shivam2003lakhera-eng&theme=github-dark-blue&hide_border=false&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
     alt="GitHub Streak"
   />
 </p>
+
+---
 
 ## 🤝 Let's Connect
 
