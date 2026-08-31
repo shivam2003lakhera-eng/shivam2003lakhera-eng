@@ -45,7 +45,7 @@ Database Applications
         │
         ▼
  Data Engineering
-````
+```
 
 > **Current goal:** Build practical skills and projects that demonstrate how data is stored, validated, transformed, and prepared for analysis.
 
@@ -322,4 +322,4 @@ Reporting / Analysis
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:161b22,100:58a6ff&height=120&section=footer" />
 </p>
-```
+
