@@ -95,11 +95,7 @@ const shivam = {
 
 A **database-driven web application** for managing insurance clients, policies, claims, and payments.
 
-<p>
-  <a href="https://github.com/shivam2003lakhera-eng/insurance-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam2003lakhera-eng&repo=insurance-management-system&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Insurance Management System" />
-  </a>
-</p>
+**Tech:** `PHP` `MySQL` `HTML` `CSS`
 
 | Layer               | Technology                        |
 | ------------------- | --------------------------------- |
@@ -119,7 +115,7 @@ A **database-driven web application** for managing insurance clients, policies, 
 
 <p>
   <a href="https://github.com/shivam2003lakhera-eng/insurance-management-system">
-    <img src="https://img.shields.io/badge/VIEW%20CODE-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="View Code" />
+    <img src="https://img.shields.io/badge/Explore_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Explore Project" />
   </a>
 </p>
 
@@ -131,11 +127,7 @@ A **database-driven web application** for managing insurance clients, policies, 
 
 This project is focused on moving beyond a traditional CRUD application toward a more **data-oriented workflow**.
 
-<p>
-  <a href="https://github.com/shivam2003lakhera-eng/InsuranceRenewalPipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam2003lakhera-eng&repo=InsuranceRenewalPipeline&theme=github_dark&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="InsuranceRenewalPipeline" />
-  </a>
-</p>
+**Tech:** `Java` `JSP` `Servlets` `Python` `MySQL`
 
 ```text
 Insurance Data
@@ -172,11 +164,7 @@ Reporting / Analysis
 * Exploring ETL-inspired collection and transformation flows.
 * Organizing operational data for reporting and analysis.
 
-<p>
-  <a href="https://github.com/shivam2003lakhera-eng/InsuranceRenewalPipeline">
-    <img src="https://img.shields.io/badge/VIEW%20CODE-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="View Code" />
-  </a>
-</p>
+<p> <a href="https://github.com/shivam2003lakhera-eng/InsuranceRenewalPipeline"> <img src="https://img.shields.io/badge/Explore_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Explore Project" /> </a> </p>
 
 ---
 
@@ -270,15 +258,16 @@ Reporting / Analysis
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=shivam2003lakhera-eng&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-    alt="GitHub Stats"
+  <img 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=shivam2003lakhera-eng&show_icons=true&hide_title=false&count_private=true&theme=transparent&hide_border=false&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    alt="Shivam's GitHub Stats"
   />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam2003lakhera-eng&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"
-    alt="Top Languages"
+
+  <img 
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam2003lakhera-eng&layout=compact&langs_count=6&theme=transparent&hide_border=false&border_color=30363d&title_color=58a6ff&text_color=c9d1d9"
+    alt="Most Used Languages"
   />
 </p>
 
@@ -288,19 +277,25 @@ Reporting / Analysis
     alt="GitHub Streak"
   />
 </p>
-
 ---
 
-## 📈 Contribution Activity
+## 🎯 Current Focus
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shivam2003lakhera-eng&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=false&border_color=30363d"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
----
+```text
+Java + Python + SQL
+        │
+        ▼
+Data Processing & Validation
+        │
+        ▼
+ETL Concepts
+        │
+        ▼
+AWS Cloud Fundamentals
+        │
+        ▼
+Data Engineering
+```
 
 ## 🤝 Let's Connect
 
