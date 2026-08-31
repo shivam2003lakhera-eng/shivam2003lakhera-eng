@@ -111,7 +111,7 @@ Designed a normalized relational database.
 Enhanced insurance record management through structured data processing and validation.
 <p> <a href="https://github.com/shivam2003lakhera-eng/insurance-management-system"> <img src="https://img.shields.io/badge/View_Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="View Code" /> </a> </p>
 ---
-
+---
 ##🔄 InsuranceRenewalPipeline
 
 🚧 Work in Progress — Exploring insurance lifecycle data and ETL-inspired workflows.
@@ -151,7 +151,7 @@ Exploring how operational data can be organized for analysis.
 🚧 Status: Actively developing and evolving toward a stronger data engineering workflow.
 
 <p> <a href="https://github.com/shivam2003lakhera-eng/InsuranceRenewalPipeline"> <img src="https://img.shields.io/badge/View_Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="View Code" /> </a> </p>
-
+---
 #📚 Currently Learning
 
 🐍 Python — strengthening OOP and practical programming skills
@@ -159,7 +159,7 @@ Exploring how operational data can be organized for analysis.
 🔄 ETL & Data Engineering Concepts — understanding data movement and transformation
 ☁️ AWS — building cloud fundamentals with EC2 and S3
 🧩 DSA — improving problem-solving skills
-
+---
 #🛠️ Tech Stack
 
 💻 Languages
@@ -173,7 +173,7 @@ Exploring how operational data can be organized for analysis.
 <p> <img src="https://skillicons.dev/icons?i=aws" /> <img src="https://img.shields.io/badge/AWS-EC2-7dd3fc?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0f172a" /> <img src="https://img.shields.io/badge/AWS-S3-7dd3fc?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0f172a" /> </p>
 🔧 Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,netbeans,tomcat" /> <img src="https://img.shields.io/badge/MySQL_Workbench-Tool-7dd3fc?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f172a" /> <img src="https://img.shields.io/badge/Jupyter-Notebook-7dd3fc?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0f172a" /> <img src="https://img.shields.io/badge/XAMPP-Development-7dd3fc?style=for-the-badge&logo=xampp&logoColor=white&labelColor=0f172a" /> </p>
-
+---
 #🗺️ What I'm Building Toward
 ~~~
 ┌──────────────────────────────┐
@@ -196,7 +196,7 @@ Exploring how operational data can be organized for analysis.
 │       Data Engineering       │
 └──────────────────────────────┘
 ~~~
-
+---
 #📊 GitHub Activity
 
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam2003lakhera-eng&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" alt="GitHub Stats" />
@@ -204,11 +204,11 @@ Exploring how operational data can be organized for analysis.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam2003lakhera-eng&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" alt="Top Languages" />
 
 </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=shivam2003lakhera-eng&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" /> </p>
-
+---
 ##📈 Contribution Activity
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam2003lakhera-eng&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" /> </p>
-
+---
 #🤝 Let's Connect
 
 <p> <a href="https://www.linkedin.com/in/shivamlakhera23"> <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Lakhera-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" /> </a> </p>
